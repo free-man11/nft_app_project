@@ -1,7 +1,7 @@
 # nft_app_project
 
 A new Flutter project.
-https://user-images.githubusercontent.com/98413109/204063447-43953162-182b-4864-a273-d3f1c0356a51.png
+<img width="1680" alt="Screenshot 2022-04-11 at 12 42 38 PM" src="https://user-images.githubusercontent.com/98413109/162741748-488de6e6-7e3e-478c-ab5d-1d0b0c17afd1.png">
 
 ## Getting Started
 
