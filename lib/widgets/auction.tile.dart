@@ -84,6 +84,8 @@ class AuctionItemTile extends StatelessWidget {
                 ),
               ),
 
+              SizedBox(height: 16),
+
               /// bottom section
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,

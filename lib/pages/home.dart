@@ -168,7 +168,7 @@ class _HomePageState extends State<HomePage> {
                                     : context.colorScheme.background,
 
                                 // small curvature at the edges of the container
-                                borderRadius: BorderRadius.circular(4),
+                                borderRadius: BorderRadius.circular(40),
                               ),
                               padding: EdgeInsets.symmetric(
                                   horizontal: 16, vertical: 8),
